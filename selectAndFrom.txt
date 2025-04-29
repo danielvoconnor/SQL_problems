@@ -1,4 +1,4 @@
-The problems below us the "accounts payable" (AP) database that is used in Murach.
+The problems below uses the "accounts payable" (AP) database that is used in Murach.
 
 Problem 1: Show all rows of the invoices table
 
