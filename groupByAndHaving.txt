@@ -2,4 +2,5 @@ This file contains problems that use "group by" and possibly also "having".
 
 1. Compute the sum of all invoice line item amounts for each invoice. Display this sum alongside the invoice_total column. Do they agree?
 
+2. Display the average invoice_total for each vendor_id in the invoices table.
 
