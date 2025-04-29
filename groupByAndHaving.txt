@@ -1,0 +1,3 @@
+This file contains problems that use "group by" and possibly also "having".
+
+
