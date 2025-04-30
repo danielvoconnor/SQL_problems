@@ -21,3 +21,5 @@ I think we have a malicious coder in the line above ^^^ lol.
 insert a new comment
 
 >>>>>>> origin/main
+
+Problem 8: Print all the vendors from California
