@@ -18,4 +18,8 @@ meow;alksdjfa;lsdjfa;lsdfjka;lsdkfjas;ldkfjk
 
 I think we have a malicious coder in the line above ^^^ lol.
 
+<<<<<<< HEAD
+new push from lia
+=======
 Problem 7: Show the highest invoice price for each vendor.
+>>>>>>> refs/remotes/origin/main
