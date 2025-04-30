@@ -20,3 +20,6 @@ I think we have a malicious coder in the line above ^^^ lol.
 insert a new comment
 
 Problem 9: Show the vendors who do not have invoices.
+
+Problem 8: Print all the vendors from California
+
