@@ -22,3 +22,7 @@ Problem 8: Show the vendors who do not have any invoices.
 
 Problem 7: Show the highest invoice price for each vendor.
 
+new push from lia
+
+Problem 7: Show the highest invoice price for each vendor.
+
