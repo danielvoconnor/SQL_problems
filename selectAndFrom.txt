@@ -11,3 +11,5 @@ Problem 4: Display the initials for each vendor in California.
 Problem 5: Display the balance due for each invoice.
 
 Problem 6: Display all vendors whose name starts with "D".
+
+Problem 7: Display all vendors in Texas.
