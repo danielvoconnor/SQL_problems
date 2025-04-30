@@ -17,3 +17,5 @@ Problem 7: Display all vendors in Texas.
 meow;alksdjfa;lsdjfa;lsdfjka;lsdkfjas;ldkfjk
 
 I think we have a malicious coder in the line above ^^^ lol.
+
+Problem 8: Show the vendors who do not have any invoices.
