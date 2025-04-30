@@ -14,6 +14,10 @@ Problem 6: Display all vendors whose name starts with "D".
 
 meow;alksdjfa;lsdjfa;lsdfjka;lsdkfjas;ldkfjk
 
+<<<<<<< HEAD
+Problem 7: Show just the last name of every vendor
+=======
 I think we have a malicious coder in the line above ^^^ lol.
 insert a new comment
 
+>>>>>>> origin/main
