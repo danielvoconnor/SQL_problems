@@ -15,3 +15,5 @@ Problem 6: Display all vendors whose name starts with "D".
 meow;alksdjfa;lsdjfa;lsdfjka;lsdkfjas;ldkfjk
 
 I think we have a malicious coder in the line above ^^^ lol.
+
+Problem 7: Show the highest invoice price for each vendor.
