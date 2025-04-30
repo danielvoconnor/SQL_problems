@@ -1,3 +1,5 @@
 The problems below use the "accounts payable" (AP) database that is used in Murach.
 
 1. Display the balance due and vendor contact names.
+
+2. Display the average balance of vendors in CA.
