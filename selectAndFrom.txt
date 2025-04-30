@@ -3,3 +3,17 @@ The problems below uses the "accounts payable" (AP) database that is used in Mur
 Problem 1: Show all rows of the invoices table
 
 Problem 2: Show all invoices that has a positive balance due.
+
+Problem 3: Show the vendor name and vendor state for each vendor.
+
+Problem 4: Display the initials for each vendor in California.
+
+Problem 5: Display the balance due for each invoice.
+
+Problem 6: Display all vendors whose name starts with "D".
+
+meow;alksdjfa;lsdjfa;lsdfjka;lsdkfjas;ldkfjk
+
+I think we have a malicious coder in the line above ^^^ lol.
+insert a new comment
+

@@ -6,3 +6,8 @@ This file contains problems that use "group by" and possibly also "having".
 
 3. Display the average invoice_total for each vendor_id in the invoices table.
 
+4. For each vendor, display the vendor name, vendor state, and the number of invoices received from that vendor.
+
+5. Find the maximum invoice_total for each vendor_id, and display the vendor_id along with its highest invoice_total.
+
+
