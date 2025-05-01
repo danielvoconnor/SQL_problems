@@ -12,5 +12,5 @@ This file contains problems that use "group by" and possibly also "having".
 
 6. Display minimum invoice_total for each vendor_id.
 
-7. Return all invoices.
+7. Display the average line item amount for each invoice.
 
