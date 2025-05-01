@@ -10,7 +10,7 @@ This file contains problems that use "group by" and possibly also "having".
 
 5. Find the maximum invoice_total for each vendor_id, and display the vendor_id along with its highest invoice_total.
 
-6. Display minimum invoice_total for each vendor_id
+6. Display minimum invoice_total for each vendor_id.
 
 7. Return all invoices.
 
