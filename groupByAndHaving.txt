@@ -14,3 +14,5 @@ This file contains problems that use "group by" and possibly also "having".
 
 7. Display the average line item amount for each invoice.
 
+8. Display all invoices which have at least two line items.
+
