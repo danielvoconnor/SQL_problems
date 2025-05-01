@@ -1,6 +1,6 @@
 The problems below uses the "accounts payable" (AP) database that is used in Murach.
 
-Problem 1: Show all rows of the invoices table
+Problem 1: Show all rows of the invoices table.
 
 Problem 2: Show all invoices that has a positive balance due.
 
@@ -14,12 +14,13 @@ Problem 6: Display all vendors whose name starts with "D".
 
 meow;alksdjfa;lsdjfa;lsdfjka;lsdkfjas;ldkfjk
 
-Problem 7: Show just the last name of every vendor
+Problem 7: Show just the last name of every vendor.
 
 I think we have a malicious coder in the line above ^^^ lol.
 insert a new comment
 
 Problem 9: Show the vendors who do not have invoices.
 
-Problem 8: Print all the vendors from California
+Problem 8: Print all the vendors from California.
+
 
