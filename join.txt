@@ -9,3 +9,5 @@ The problems below use the "accounts payable" (AP) database that is used in Mura
 4. Display the vendor name and line item amount for each invoice line item.
 
 5. Display the vendor ID, vendor name, and average balance due for each invoice for that vendor.
+
+6. Display the vendors with no invoices.
