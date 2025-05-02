@@ -5,3 +5,5 @@ The problems below use the "accounts payable" (AP) database that is used in Mura
 2. Display the average balance of vendors in CA.
 
 3. Display the vendor name, vendor state, and invoice total for each invoice.
+
+4. Display the vendor name and line item amount for each invoice line item.
