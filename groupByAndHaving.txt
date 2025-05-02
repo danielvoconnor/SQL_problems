@@ -11,3 +11,5 @@ This file contains problems that use "group by" and possibly also "having".
 5. Find the maximum invoice_total for each vendor_id, and display the vendor_id along with its highest invoice_total.
 
 6. Return all invoices.
+
+7. Find the average line item amount for each vendor. 
