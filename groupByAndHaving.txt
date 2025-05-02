@@ -16,3 +16,5 @@ This file contains problems that use "group by" and possibly also "having".
 
 8. Display all invoices which have at least two line items.
 
+8. Count all vendors from the United States
+
