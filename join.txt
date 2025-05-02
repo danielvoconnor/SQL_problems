@@ -2,4 +2,6 @@ The problems below use the "accounts payable" (AP) database that is used in Mura
 
 1. Display the balance due and vendor contact names.
 
-2. Display the average balance of vendors in CA.
+2. Display the average balance of vendors in CA
+
+3. testing.
